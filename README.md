@@ -38,20 +38,31 @@ Program should be able to:
 Give user options based on above criteria, then return results that meet criteria. 
 
 User able to enter new routes into database
+
 Print list of all routes
 
 print list of routes that meet user entered criteria. 
+
 1.	Open the database file, if database does not open, exit the program.
 
 2.	Create list of routes
+
 a.	 Read data and store it in a route object
+
 b.	Insert a route in the database
+
 c.	Repeat steps a and b for each route data in the file 
+
 3.	Show the menu of search options
+
 a.	Search by riding level
+
 b.	Search by pavement type
+
 c.	Search by miles
+
 d.	Search by boulder neighborhood
+
 e.	Search by crowds
 
 Exception Handling: If a user inputs an incorrect character, then the program should throw an error stating invalid input type.
