@@ -1,11 +1,10 @@
 # Database of Summerboard Routes in Boulder
+tldr: Database of summerboard routes stored as .txt file that the program opens and displays results on screen based on user entered search criteria. User is able to add routes with multiple required variables to the database and then search for routes that meet those variables.  
 
 ![Summerboard Boulder](https://github.com/thetopham/Summerboard/blob/main/Summerboard%20Boulder.jpg?raw=true)
 
 
 My capstone project for CSC 161 C++ completed in summer of 2022.
-
-tldr: Database of summerboard routes stored as .txt file that the program opens and displays results on screen based on user entered search criteria. User is able to add routes with multiple required variables to the database and then search for routes that meet those variables.  
 
 M1 Capstone Project: Summerboard Routes
 
