@@ -1,4 +1,8 @@
 # Database of Summerboard Routes in Boulder
+
+![Summerboard Boulder](https://github.com/thetopham/Summerboard/blob/main/Summerboard%20Boulder.jpg?raw=true)
+
+
 My capstone project for CSC 161 C++ completed in summer of 2022
 
 M1 Capstone Project: Summerboard Routes
